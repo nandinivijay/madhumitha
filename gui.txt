@@ -1,1 +1,3 @@
 git gui edit
+
+git status check
